@@ -1,0 +1,1 @@
+System.register(["./p-4893e8c3.system.js"],(function(){"use strict";var e,t;return{setters:[function(s){e=s.p;t=s.b}],execute:function(){e().then((function(e){return t([["p-kbiugebp.system",[[1,"web-social-share",{show:[1028],share:[16]}]]]],e)}))}}}));

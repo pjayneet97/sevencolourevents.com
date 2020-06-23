@@ -1,0 +1,1 @@
+import{p as s,b as a}from"./p-181e1247.js";s().then(s=>a([["p-a8xytkkj",[[1,"web-social-share",{show:[1028],share:[16]}]]]],s));
